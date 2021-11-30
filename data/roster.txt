@@ -1,0 +1,6 @@
+1 Bulbasaur Grass
+tackle cut razor_leaf vine_whip
+15 Arbok Poison
+giga_drain earthquake rock_slide thief
+9 Jigglypuff Fairy
+sleep sing leer tackle

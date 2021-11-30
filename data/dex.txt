@@ -1,0 +1,16 @@
+1 Bulbasaur Grass
+tackle cut razor_leaf vine_whip
+4 Charmander Fire
+scratch inferno fire_spin magma_storm
+7 Squirtle Water
+bite hydro_pump shell_smash water_gun
+9 Jigglypuff Fairy
+sleep sing leer tackle
+11 Snorlax Normal
+body_slam sleep tackle snore
+13 Pikachu Electric
+shock spark thunderbolt discharge
+15 Arbok Poison
+giga_drain earthquake rock_slide thief
+17 Mew Psychic
+Psybeam Tackle Sleep Psychic
