@@ -1,0 +1,27 @@
+# Christopher Hunt
+# CS 161
+# Final Project
+
+Pokemon Class Design
+
+The pokemon class will essentially be just a container to hold
+attributes of the object, no methods will be accessed via this class
+
+The pokemon class will be built using a user inputed text file
+version of their "Pokedex" this list of pokemon objects will then 
+be used as an attribute of the pokedex class object itself.
+
+Practically all the programs functionality will be contained in the pokedex.
+
+The driver will contain some basic features to make using the pokedex a 
+user friendly experience.
+
+Class:
+
+Pokemon
+    attributes: 
+            dex num
+            name
+            type
+            moves list
+  

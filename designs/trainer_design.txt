@@ -1,0 +1,13 @@
+# Christopher Hunt
+# CS 161
+# Final Project
+
+Pokemon Trainer Class Design
+
+The trainer object will hold a players name, their pokedex, and a tuple of their current pokemon roster.
+
+Trainer:
+    attributes:
+            name
+            pokedex
+            roster

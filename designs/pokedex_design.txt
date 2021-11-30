@@ -1,0 +1,28 @@
+# Christopher Hunt
+# CS 161
+# Final Project
+
+Pokedex Class Design
+
+This pokedex program will take in a user inputted .txt file
+and from this file the user will be able to search for specific pokemon
+via three different methods. The user will also be able to add to a pokemon
+
+The pokedex class will have several attributes and a handful of methods that will
+allow it to have functionality.
+
+Pokedex:
+    attributes:
+            owner
+            number of pokemon
+            list of pokemon
+            path to dex
+    
+    methods:
+            sign in - user inputs name and pokedex .txt file
+            selection loop - functionality of how to navigate pokedex program
+            search by dex number - returns Pokemon
+            search by name - returns pokemon
+            search by type - returns pokemon
+            add pokemon
+

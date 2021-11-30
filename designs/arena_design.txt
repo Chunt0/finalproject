@@ -1,0 +1,37 @@
+# Christopher Hunt
+# CS 161
+# Final Project
+
+Pokemon Arena Class Design
+
+The arena object will allow the player to battle a computer opponent
+The object will have two player objects - you and the computer
+and dictionary of the available pokemon as keys and their stats as values.
+
+The arena will allow the player to login to their pokedex and build their battle roster, consisting of 3 pokemon.
+The opponent will randomly select 3 pokemon from an available list of pokemon.
+
+Each pokemon will have associated HP, attack, defense, and speed. These values will be used
+in the battle mechanics to calculate which side attacks first and how much damage is dealt.
+Although each pokemon has a move list, for this demonstration the attack function will be more limited
+in scope, not assigning different stats to each move. The attack mechanic will use this function
+
+Damage = 15 * (Attack of Current)/(Defense of Opponent) * Type Effectiveness * Random 
+
+The player and opponent will have 3 battle options
+ - attack
+ - heal
+ - swap
+
+Arena
+    attributes:
+            player
+            opponent
+            pokemon dictionary
+    
+    methods:
+            playerAttack, compAttack
+            playerHeal, compHeal
+            playerSwap, compSwap
+
+            
