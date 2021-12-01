@@ -35,3 +35,22 @@ and change it manually. I bring this up though because in the pokedex section of
 you are able to output a searched pokemon to a file (essentially building your own roster),
 my recommendation would be to use the path "./data/roster.txt" to build your 
 own roster if you so desire, but you can use any path you wish.
+
+The pokedex program also has a couple of quirks that are worth mentioning.
+Since pokemon dictionary has the name and types with the first letter capitalized, it's crucial that when you enter in
+a type or name of a pokemon that you use that same format
+
+ex: Bulbasaur, Grass, etc
+
+Also, when you are adding a pokemon to the pokedex, when entering your moves, if you have a two word move
+do not use a space, use an underscore to seperate them.
+
+ex: razor_leaf, vine_whip
+
+I'm sure there are still a number of quirks that I've missed but I had fun creating this. I did not incorporate the moves
+into the battle mode but maybe if I continue with this project I will flesh that out some more and add them in.
+I really enjoyed the file I/O aspect, using data to build out classes and building matrices to use in damage calculations, etc.
+
+Please feel free to DM me on discord if you have any questions.
+
+Thanks for the term!
